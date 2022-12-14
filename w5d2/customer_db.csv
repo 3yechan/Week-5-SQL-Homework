@@ -1,0 +1,5 @@
+customer_id,first_name,last_name,payment_method
+1,Daniel Day,Lewis,cash
+2,Julia,Roberts,cash
+3,Jennifer,Grey,credit
+4,Dustin,Hoffman,debit

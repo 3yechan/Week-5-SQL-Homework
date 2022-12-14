@@ -1,0 +1,2 @@
+ticket_id,customer_id,movie_id,concession_id,price,theater_number,seat_number
+1,1,1,1,42.40,23,J4
